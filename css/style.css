@@ -1,11 +1,12 @@
 
 .login{
-  display:contents;
-  background-color: #3c0e78;
-  width: fit-content;
-  align-content: center;
-
-
+ 
+  width: 100vw;
+  height: 50vh;
+  display: flex;
+  flex-direction: row;
+  justify-content:center;
+  align-items: center;
 
 }
 
